@@ -1,4 +1,4 @@
-# Calculator
+# Expression Calculator
 This project contains a calculator that gets an input number from the user and applies the bellow formula to it. Assuming the given number is 38, the calculation will be:
 
 &nbsp;
